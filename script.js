@@ -478,21 +478,21 @@ function setupTyping() {
   const target = document.getElementById('typing-output');
   if (!target) return;
 
-  const full = `happy birthday sayaaangg, happy birthday to my love of my life, my sunshine, my medicine, my eeEeverythingg 🎂
+  const full = `happy birthday bubb, happy birthday to my love of my life, my sunshine, my medicine, my eeEeverythingg 🎂
 
-selamat bertambah umur yaa diaann. aku harap hari ini penuh sama cinta, tawa, dan semua hal favorit kamu. kamu deserve semua kebahagiaan di dunia ini, hari ini dan selalu.
+selamat bertambah umur yaa diaann. i hope your day is filled with so much love, laughter, and all your favorite things. kamu deserve semua kebahagiaan di dunia ini, hari ini dan selalu.
 
-semoga tahun ini ngebawa kamu lebih deket ke impian-impian kamu dan kasih kamu banyak momen yang lucu dan gak terlupakan.
+semoga tahun ini ngebawa kamu lebih deket ke impian impian kamu and give you tons of cute and unfogettable moment.
 
-di hari spesial kamu ini, aku harap kamu tau bahwa aku sayang kamu, aku sayang kamu lebih dari banyak, lebih dari yang bisa aku gambarin, lebih dari yang aku pikir aku lakuin... intinya MORE MORE MOREE (lebih dari kamu) 💙
+di hari spesial kamu ini, i hope you know that i love you always, i love you more than a lot, more than i can describe, more than i think i do... intinya MORE MORE MOREE (lebih dari kamu) 
 
-makasi uda sabar ngadepin aku, ngadepin sifatku, ngadepin semuaa yang aku lakuin — makasi buat semuanyaaaa dehh. semoga bisa deket kaya gini terus yaaa.
+makasi uda sabar ngadepin aku, ngadepin sifatku, ngadepin semuaa yang aku lakuin, makasi buat semuanyaaaa dehh. semoga bisa deket kaya gini terus yaaa.
 
-aku bahkan gak nemu kata yang tepat buat jelasin betapa berartinya kamu buat aku. jadi di hari ulang tahunmu ini, aku cuma mau ingetin lagi —
+i cant even find the right words to explain how much you mean to me. so on your birthday, aku mau ngingetin -
 
 aku milih kamu.
 
-kaya dialog film sore: "kalo diulang ratusan kali pun, aku bakal tetep pilih kamu deh." i'd still choose you, setiap hari, setiap waktu, in every lifetime da. ✨
+kaya dialog film sore: "kalo diulang ratusan kali pun, aku bakal tetep pilih kamu deh." i'd still choose you, setiap hari, setiap waktu, in every lifetime deh pokoknya.
 
 —
 
@@ -502,7 +502,7 @@ thank u for being my medicine. makasi uda jadi alasan aku happy tiap hari. aku s
 
 selama aku masih ada di dunia ini, kamu selalu punya seseorang yang SELALU bangga ke kamu. aku bakal dukung semua hal yang kamu lakuin, asal bukan hal negatif.
 
-i love you. selamat ulang tahun, bintangku 🌟`;
+i love you. selamat ulang tahun, my number 1 `;
 
   const cursor = document.createElement('span');
   cursor.classList.add('typing-cursor');
